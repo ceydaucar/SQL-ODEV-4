@@ -1,5 +1,5 @@
 # SQL-ODEV-4
-Patika.dev > SQL > Ödev4
+Patika.dev > SQL > SQL Temelleri > Ödev4
 
 ## 1. film tablosunda bulunan replacement_cost sütununda bulunan birbirinden farklı değerleri sıralayınız.
 
